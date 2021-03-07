@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories | Oleg Zendel</title>
-    <link>olegzendel.github.io/categories/</link>
-      <atom:link href="olegzendel.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <link>zendelo.github.io/categories/</link>
+      <atom:link href="zendelo.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Oleg Zendel</copyright><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/olegzendel.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/zendelo.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Categories</title>
-      <link>olegzendel.github.io/categories/</link>
+      <link>zendelo.github.io/categories/</link>
     </image>
     
   </channel>

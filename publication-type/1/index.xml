@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 | Oleg Zendel</title>
-    <link>olegzendel.github.io/publication-type/1/</link>
-      <atom:link href="olegzendel.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <link>zendelo.github.io/publication-type/1/</link>
+      <atom:link href="zendelo.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Oleg Zendel</copyright><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/olegzendel.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/zendelo.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>1</title>
-      <link>olegzendel.github.io/publication-type/1/</link>
+      <link>zendelo.github.io/publication-type/1/</link>
     </image>
     
     <item>
       <title>An example conference paper</title>
-      <link>olegzendel.github.io/publication/example/</link>
+      <link>zendelo.github.io/publication/example/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>olegzendel.github.io/publication/example/</guid>
+      <guid>zendelo.github.io/publication/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
