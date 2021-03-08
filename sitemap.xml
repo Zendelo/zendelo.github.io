@@ -11,6 +11,9 @@
     <loc>zendelo.github.io/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
+    <loc>zendelo.github.io/authors/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>zendelo.github.io/tag/academic/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
@@ -18,6 +21,9 @@
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>zendelo.github.io/category/demo/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>zendelo.github.io/authors/admin/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>zendelo.github.io/post/</loc>
@@ -29,11 +35,53 @@
     <loc>zendelo.github.io/post/getting-started/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>zendelo.github.io/authors/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>zendelo.github.io/tag/%E5%BC%80%E6%BA%90/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>zendelo.github.io/category/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>zendelo.github.io/publication-type/1/</loc>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>zendelo.github.io/authors/ali-tabaja/</loc>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>zendelo.github.io/authors/fiana-raiber/</loc>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>zendelo.github.io/publication/adclosepred/</loc>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>zendelo.github.io/authors/natalia-silberstein/</loc>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>zendelo.github.io/authors/oren-somekh/</loc>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>zendelo.github.io/publication_types/</loc>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>zendelo.github.io/publication/</loc>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>zendelo.github.io/authors/yaroslav-fyodorov/</loc>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>zendelo.github.io/authors/anna-shtok/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>zendelo.github.io/publication/qppvar/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>zendelo.github.io/authors/j-shane-culpepper/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>zendelo.github.io/authors/oren-kurland/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>zendelo.github.io/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
@@ -55,18 +103,6 @@
   </url><url>
     <loc>zendelo.github.io/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>zendelo.github.io/publication-type/1/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>zendelo.github.io/publication/example/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>zendelo.github.io/publication_types/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>zendelo.github.io/publication/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>zendelo.github.io/admin/</loc>
   </url>
