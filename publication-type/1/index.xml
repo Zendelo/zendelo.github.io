@@ -5,12 +5,20 @@
     <link>zendelo.github.io/publication-type/1/</link>
       <atom:link href="zendelo.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Oleg Zendel</copyright><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Oleg Zendel</copyright><lastBuildDate>Sat, 27 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/zendelo.github.io/media/icon_hu4076168502827e37fecc3e47bd2e1362_33027_512x512_fill_lanczos_center_2.png</url>
       <title>1</title>
       <link>zendelo.github.io/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>An Enhanced Evaluation Framework for Query Performance Prediction</title>
+      <link>zendelo.github.io/publication/qppanova/</link>
+      <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>zendelo.github.io/publication/qppanova/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Leveraging User Email Actions to Improve Ad-Close Prediction</title>
