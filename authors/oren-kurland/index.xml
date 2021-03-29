@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Oren Kurland | Oleg Zendel</title>
-    <link>/authors/oren-kurland/</link>
-      <atom:link href="/authors/oren-kurland/index.xml" rel="self" type="application/rss+xml" />
+    <link>./authors/oren-kurland/</link>
+      <atom:link href="./authors/oren-kurland/index.xml" rel="self" type="application/rss+xml" />
     <description>Oren Kurland</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Oleg Zendel</copyright><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hu4076168502827e37fecc3e47bd2e1362_33027_512x512_fill_lanczos_center_2.png</url>
       <title>Oren Kurland</title>
-      <link>/authors/oren-kurland/</link>
+      <link>./authors/oren-kurland/</link>
     </image>
     
     <item>
       <title>Information Needs, Queries, and Query Performance Prediction</title>
-      <link>/publication/qppvar/</link>
+      <link>./publication/qppvar/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/qppvar/</guid>
+      <guid>./publication/qppvar/</guid>
       <description></description>
     </item>
     
