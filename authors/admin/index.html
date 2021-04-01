@@ -254,6 +254,45 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Z2YQT6F22L"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-Z2YQT6F22L', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
   
@@ -717,7 +756,7 @@
 Under the guidance of Prof. J. Shane Culpepper and Prof. Falk Scholer.</p>
 <p>I completed my M.Sc. at the Technion - Israel Institute of Technology, under the supervision of Prof. Oren Kurland
 where I examined how to improve query performance prediction using reference queries.</p>
-<p>My current research focuses on the evalution of query performance prediction.</p>
+<p>My current research focuses on the evaluation of query performance prediction.</p>
 
     </div>
 
