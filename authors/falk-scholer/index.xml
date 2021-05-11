@@ -5,12 +5,20 @@
     <link>./authors/falk-scholer/</link>
       <atom:link href="./authors/falk-scholer/index.xml" rel="self" type="application/rss+xml" />
     <description>Falk Scholer</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Oleg Zendel</copyright><lastBuildDate>Sat, 27 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Oleg Zendel</copyright><lastBuildDate>Tue, 11 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hu4076168502827e37fecc3e47bd2e1362_33027_512x512_fill_lanczos_center_2.png</url>
       <title>Falk Scholer</title>
       <link>./authors/falk-scholer/</link>
     </image>
+    
+    <item>
+      <title>Is Query Performance Prediction With Multiple Query Variations Harder Than Topic Performance Prediction?</title>
+      <link>./publication/interintraqpp/</link>
+      <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
+      <guid>./publication/interintraqpp/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>An Enhanced Evaluation Framework for Query Performance Prediction</title>
