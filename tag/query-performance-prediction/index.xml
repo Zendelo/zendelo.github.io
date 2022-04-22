@@ -5,12 +5,20 @@
     <link>./tag/query-performance-prediction/</link>
       <atom:link href="./tag/query-performance-prediction/index.xml" rel="self" type="application/rss+xml" />
     <description>&#34;Query Performance Prediction&#34;</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Oleg Zendel</copyright><lastBuildDate>Tue, 11 May 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Oleg Zendel</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hu4076168502827e37fecc3e47bd2e1362_33027_512x512_fill_lanczos_center_2.png</url>
       <title>&#34;Query Performance Prediction&#34;</title>
       <link>./tag/query-performance-prediction/</link>
     </image>
+    
+    <item>
+      <title>sMARE: a new paradigm to evaluate and understand query performance prediction methods</title>
+      <link>./publication/faggioli-irj-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>./publication/faggioli-irj-2022/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Is Query Performance Prediction With Multiple Query Variations Harder Than Topic Performance Prediction?</title>

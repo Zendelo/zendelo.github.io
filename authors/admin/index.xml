@@ -5,7 +5,7 @@
     <link>./authors/admin/</link>
       <atom:link href="./authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Oleg Zendel</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Oleg Zendel</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Oleg Zendel</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/authors/admin/avatar_hu0309e405b8b6926990d96c7334e089c9_484990_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Oleg Zendel</title>
@@ -17,6 +17,14 @@
       <link>./publication/zendel-2022/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>./publication/zendel-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sMARE: a new paradigm to evaluate and understand query performance prediction methods</title>
+      <link>./publication/faggioli-irj-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>./publication/faggioli-irj-2022/</guid>
       <description></description>
     </item>
     
