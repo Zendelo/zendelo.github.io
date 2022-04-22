@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;Query variations; query performance prediction&#34; | Oleg Zendel</title>
+    <link>./tag/query-variations-query-performance-prediction/</link>
+      <atom:link href="./tag/query-variations-query-performance-prediction/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;Query variations; query performance prediction&#34;</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Oleg Zendel</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu4076168502827e37fecc3e47bd2e1362_33027_512x512_fill_lanczos_center_2.png</url>
+      <title>&#34;Query variations; query performance prediction&#34;</title>
+      <link>./tag/query-variations-query-performance-prediction/</link>
+    </image>
+    
+    <item>
+      <title>Can Users Predict Relative Query Effectiveness?</title>
+      <link>./publication/zendel-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>./publication/zendel-2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

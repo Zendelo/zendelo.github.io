@@ -5,12 +5,20 @@
     <link>./authors/admin/</link>
       <atom:link href="./authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Oleg Zendel</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Oleg Zendel</copyright><lastBuildDate>Tue, 11 May 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Oleg Zendel</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/authors/admin/avatar_hu0309e405b8b6926990d96c7334e089c9_484990_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Oleg Zendel</title>
       <link>./authors/admin/</link>
     </image>
+    
+    <item>
+      <title>Can Users Predict Relative Query Effectiveness?</title>
+      <link>./publication/zendel-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>./publication/zendel-2022/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Is Query Performance Prediction With Multiple Query Variations Harder Than Topic Performance Prediction?</title>
