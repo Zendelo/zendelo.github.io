@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | Oleg Zendel</title>
-    <link>./tags/</link>
-      <atom:link href="./tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://zendelo.github.io/tags/</link>
+      <atom:link href="https://zendelo.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Oleg Zendel</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/media/icon_hu4076168502827e37fecc3e47bd2e1362_33027_512x512_fill_lanczos_center_3.png</url>
+      <url>https://zendelo.github.io/media/icon_hu4076168502827e37fecc3e47bd2e1362_33027_512x512_fill_lanczos_center_3.png</url>
       <title>Tags</title>
-      <link>./tags/</link>
+      <link>https://zendelo.github.io/tags/</link>
     </image>
     
   </channel>

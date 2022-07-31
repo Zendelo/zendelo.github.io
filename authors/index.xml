@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Oleg Zendel</title>
-    <link>./authors/</link>
-      <atom:link href="./authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://zendelo.github.io/authors/</link>
+      <atom:link href="https://zendelo.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Oleg Zendel</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Oleg Zendel</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/media/icon_hu4076168502827e37fecc3e47bd2e1362_33027_512x512_fill_lanczos_center_3.png</url>
+      <url>https://zendelo.github.io/media/icon_hu4076168502827e37fecc3e47bd2e1362_33027_512x512_fill_lanczos_center_3.png</url>
       <title>Oleg Zendel</title>
-      <link>./authors/</link>
+      <link>https://zendelo.github.io/authors/</link>
     </image>
     
   </channel>
