@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Natalia Silberstein | Oleg Zendel</title>
+    <link>./authors/natalia-silberstein/</link>
+      <atom:link href="./authors/natalia-silberstein/index.xml" rel="self" type="application/rss+xml" />
+    <description>Natalia Silberstein</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Oleg Zendel</copyright><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu4076168502827e37fecc3e47bd2e1362_33027_512x512_fill_lanczos_center_3.png</url>
+      <title>Natalia Silberstein</title>
+      <link>./authors/natalia-silberstein/</link>
+    </image>
+    
+    <item>
+      <title>Leveraging User Email Actions to Improve Ad-Close Prediction</title>
+      <link>./publication/adclosepred/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>./publication/adclosepred/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
