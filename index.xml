@@ -5,12 +5,20 @@
     <link>https://zendelo.github.io/</link>
       <atom:link href="https://zendelo.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Oleg Zendel</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Oleg Zendel</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Oleg Zendel</copyright><lastBuildDate>Thu, 03 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://zendelo.github.io/media/icon_hu4076168502827e37fecc3e47bd2e1362_33027_512x512_fill_lanczos_center_3.png</url>
       <title>Oleg Zendel</title>
       <link>https://zendelo.github.io/</link>
     </image>
+    
+    <item>
+      <title>Enhancing Human Annotation: Leveraging Large Language Models and Efficient Batch Processing?</title>
+      <link>https://zendelo.github.io/publication/gptcognitive/</link>
+      <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://zendelo.github.io/publication/gptcognitive/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Can Users Predict Relative Query Effectiveness?</title>
