@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thesis | Oleg Zendel - Personal Homepage</title>
+    <link>https://olegzendel.com/publication_types/thesis/</link>
+      <atom:link href="https://olegzendel.com/publication_types/thesis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Thesis</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://olegzendel.com/media/icon_hu_982c5d63a71b2961.png</url>
+      <title>Thesis</title>
+      <link>https://olegzendel.com/publication_types/thesis/</link>
+    </image>
+    
+    <item>
+      <title>Information needs, queries, and query performance prediction</title>
+      <link>https://olegzendel.com/publications/zendel-2020-thesis/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://olegzendel.com/publications/zendel-2020-thesis/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ad Close Prediction | Oleg Zendel - Personal Homepage</title>
+    <link>https://olegzendel.com/tags/ad-close-prediction/</link>
+      <atom:link href="https://olegzendel.com/tags/ad-close-prediction/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ad Close Prediction</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://olegzendel.com/media/icon_hu_982c5d63a71b2961.png</url>
+      <title>Ad Close Prediction</title>
+      <link>https://olegzendel.com/tags/ad-close-prediction/</link>
+    </image>
+    
+    <item>
+      <title>Leveraging User Email Actions to Improve Ad-Close Prediction</title>
+      <link>https://olegzendel.com/publications/zendel-2020-adclose/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://olegzendel.com/publications/zendel-2020-adclose/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

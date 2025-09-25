@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Query Formulations | Oleg Zendel - Personal Homepage</title>
+    <link>https://olegzendel.com/tags/query-formulations/</link>
+      <atom:link href="https://olegzendel.com/tags/query-formulations/index.xml" rel="self" type="application/rss+xml" />
+    <description>Query Formulations</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://olegzendel.com/media/icon_hu_982c5d63a71b2961.png</url>
+      <title>Query Formulations</title>
+      <link>https://olegzendel.com/tags/query-formulations/</link>
+    </image>
+    
+    <item>
+      <title>sMARE: a new paradigm to evaluate and understand query performance prediction methods</title>
+      <link>https://olegzendel.com/publications/faggioli-irj-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://olegzendel.com/publications/faggioli-irj-2022/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

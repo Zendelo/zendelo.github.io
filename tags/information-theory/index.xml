@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Information Theory | Oleg Zendel - Personal Homepage</title>
+    <link>https://olegzendel.com/tags/information-theory/</link>
+      <atom:link href="https://olegzendel.com/tags/information-theory/index.xml" rel="self" type="application/rss+xml" />
+    <description>Information Theory</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://olegzendel.com/media/icon_hu_982c5d63a71b2961.png</url>
+      <title>Information Theory</title>
+      <link>https://olegzendel.com/tags/information-theory/</link>
+    </image>
+    
+    <item>
+      <title>Entropy-Based Query Performance Prediction for Neural Information Retrieval Systems</title>
+      <link>https://olegzendel.com/publications/zendel-2023-entropy/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://olegzendel.com/publications/zendel-2023-entropy/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

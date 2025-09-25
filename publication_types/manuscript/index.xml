@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Manuscript | Oleg Zendel - Personal Homepage</title>
+    <link>https://olegzendel.com/publication_types/manuscript/</link>
+      <atom:link href="https://olegzendel.com/publication_types/manuscript/index.xml" rel="self" type="application/rss+xml" />
+    <description>Manuscript</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://olegzendel.com/media/icon_hu_982c5d63a71b2961.png</url>
+      <title>Manuscript</title>
+      <link>https://olegzendel.com/publication_types/manuscript/</link>
+    </image>
+    
+    <item>
+      <title>RMIT-ADM&#43;S at the SIGIR 2025 LiveRAG Challenge</title>
+      <link>https://olegzendel.com/publications/ran-rmit-adms-2025/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://olegzendel.com/publications/ran-rmit-adms-2025/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
