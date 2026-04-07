@@ -1,16 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Publication_types | Oleg Zendel - Personal Homepage</title>
-    <link>https://olegzendel.com/publication_types/</link>
-      <atom:link href="https://olegzendel.com/publication_types/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publication_types</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Nov 2025 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://olegzendel.com/media/icon_hu_982c5d63a71b2961.png</url>
-      <title>Publication_types</title>
-      <link>https://olegzendel.com/publication_types/</link>
-    </image>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Publication_types | Oleg Zendel</title><link>https://olegzendel.com/publication_types/</link><atom:link href="https://olegzendel.com/publication_types/index.xml" rel="self" type="application/rss+xml"/><description>Publication_types</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>© 2026 Oleg Zendel</copyright><lastBuildDate>Thu, 03 Oct 2024 00:00:00 +0000</lastBuildDate><image><url>https://olegzendel.com/media/icon_hu_1e07620d5b834742.png</url><title>Publication_types</title><link>https://olegzendel.com/publication_types/</link></image></channel></rss>
